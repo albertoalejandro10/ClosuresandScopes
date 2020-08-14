@@ -1,0 +1,17 @@
+{
+  "name": "closuresscope",
+  "version": "1.0.0",
+  "description": "Estudiando JavaScript closures y scopes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "closures",
+    "JavaScript",
+    "scope",
+    "programming"
+  ],
+  "author": "albertoalejandro10",
+  "license": "MIT"
+}
